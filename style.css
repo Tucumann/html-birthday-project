@@ -1,0 +1,31 @@
+/*h1, h2, h3, p, .mint {*/
+body, .mint {
+    text-align: center;
+    color:green;
+    font-family: candara ;
+   }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+main {
+background-color: #f6f6f6;
+width: 70%;
+align-content: center;
+}
+
+a:hover, a:focus {
+color: orange;    
+}
+
+#lemon {
+    color: orange;
+  }
+
+h1::first-letter {
+    font-family: broadway;
+    font-size: 2rem;    
+}
